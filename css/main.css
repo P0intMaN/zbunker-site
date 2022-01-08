@@ -25,6 +25,7 @@ body{
     padding:0;
     margin:0;
     display:none;
+    overflow-x: hidden;
 }
 hr{
     border: 1px solid #ec4e00;
