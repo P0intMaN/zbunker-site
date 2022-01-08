@@ -47,6 +47,9 @@ hr{
 .leftline-green{
     border-left: 2px solid #00F701;
 }
+.leftline-python{
+    border-left: 2px solid #3470A0;
+}
 .bottomblock{
     width:15px;
     height:15px;
@@ -724,6 +727,9 @@ mark{
 }
 .green-bg{
     background-color: #00F701;
+}
+.python-bg{
+    background-color: #3470A0;
 }
 .gray{
     background-color:gray;
