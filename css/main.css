@@ -793,7 +793,7 @@ mark{
     box-shadow: none;
 }
 /*mobile devices*/
-@media (max-width: 575px) {
+@media (max-width: 450px) {
     .navbar-brand img{
         width: 150px;
     }
@@ -801,7 +801,7 @@ mark{
         width: 40px;
     }
     .descbox > .py{
-        height: 70px;
+        height: 60px;
         padding: 0 2px 0 2px;
     }
     .descbox > .git{
@@ -821,11 +821,11 @@ mark{
         padding: 0 2px 0 2px;
     }
     .orangearrow{
-        width:70px;
+        width:60px;
         bottom:0;
         right:0;
         margin-bottom: 30px;
-        margin-right:30px;
+        margin-right:-10px;
     }
 }
 @media (min-width: 576px) {
@@ -1044,9 +1044,9 @@ mark{
     transition: 0.2s ease-in; */
 }
 /* mobile devices */
-@media (max-width: 575px) {
+@media (max-width: 450px) {
     .lvs{
-        font-size: 56px;
+        font-size: 40px;
         transform: translateY(143%);
     }
     .swiper-slide img{
