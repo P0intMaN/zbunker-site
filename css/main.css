@@ -828,6 +828,43 @@ mark{
         margin-right:-10px;
     }
 }
+/*mobile devices*/
+@media (min-width: 451px) {
+    .navbar-brand img{
+        width: 150px;
+    }
+    .zbgnav img{
+        width: 40px;
+    }
+    .descbox > .py{
+        height: 60px;
+        padding: 0 2px 0 2px;
+    }
+    .descbox > .git{
+        height: 30px;
+        padding: 0 2px 0 2px;
+    }
+    .descbox > .pg{
+        height: 30px;
+        padding: 0 2px 0 2px;
+    }
+    .descbox > .fl{
+        height: 30px;
+        padding: 0 2px 0 2px;
+    }
+    .descbox > .li{
+        height: 50px;
+        padding: 0 2px 0 2px;
+    }
+    .orangearrow{
+        width:60px;
+        bottom:0;
+        right:0;
+        margin-bottom: 30px;
+        margin-right:-10px;
+    }
+}
+
 @media (min-width: 576px) {
     .navbar-brand img{
         width: 150px;
@@ -1045,6 +1082,27 @@ mark{
 }
 /* mobile devices */
 @media (max-width: 450px) {
+    .lvs{
+        font-size: 40px;
+        transform: translateY(143%);
+    }
+    .swiper-slide img{
+        width: 300px;
+    }
+    .heading{
+        font-size: 56px;
+    }
+    .sub-heading{
+        font-size:40px;
+    }
+    .para{
+        font-size:18px;
+    }
+    .vsm-heading{
+        font-size: 10px;
+    }
+}
+@media (min-width: 451px) {
     .lvs{
         font-size: 40px;
         transform: translateY(143%);
