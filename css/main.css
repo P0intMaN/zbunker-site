@@ -805,11 +805,11 @@ mark{
         padding: 0 2px 0 2px;
     }
     .descbox > .git{
-        height: 30px;
+        height: 20px;
         padding: 0 2px 0 2px;
     }
     .descbox > .pg{
-        height: 30px;
+        height: 20px;
         padding: 0 2px 0 2px;
     }
     .descbox > .fl{
@@ -817,7 +817,7 @@ mark{
         padding: 0 2px 0 2px;
     }
     .descbox > .li{
-        height: 50px;
+        height: 30px;
         padding: 0 2px 0 2px;
     }
     .orangearrow{
