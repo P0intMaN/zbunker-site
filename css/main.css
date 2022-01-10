@@ -56,6 +56,9 @@ hr{
 .leftline-python{
     border-left: 2px solid #3470A0;
 }
+.leftline-red{
+    border-left: 2px solid #C7140D;
+}
 .bottomblock{
     width:15px;
     height:15px;
@@ -736,6 +739,9 @@ mark{
 }
 .python-bg{
     background-color: #3470A0;
+}
+.red-bg{
+    background-color: #C7140D;
 }
 .gray{
     background-color:gray;
