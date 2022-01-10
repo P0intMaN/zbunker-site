@@ -9,6 +9,11 @@
       display: none;
     }
 }
+@media (min-width: 500px) {
+    .desktop-hidden {
+      display: none;
+    }
+}
 /* * */
 html {
     max-width: 100%;
