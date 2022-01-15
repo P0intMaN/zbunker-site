@@ -9,6 +9,11 @@
       display: none;
     }
 }
+@media (max-width: 500px) {
+    .mobile-hidden-x {
+      display: none;
+    }
+}
 @media (min-width: 500px) {
     .desktop-hidden {
       display: none;
@@ -55,6 +60,9 @@ hr{
 }
 .leftline-python{
     border-left: 2px solid #3470A0;
+}
+.leftline-git{
+    border-left: 2px solid #E84E31;
 }
 .leftline-red{
     border-left: 2px solid #C7140D;
@@ -739,6 +747,9 @@ mark{
 }
 .python-bg{
     background-color: #3470A0;
+}
+.git-bg{
+    background-color: #E84E31;
 }
 .red-bg{
     background-color: #C7140D;
